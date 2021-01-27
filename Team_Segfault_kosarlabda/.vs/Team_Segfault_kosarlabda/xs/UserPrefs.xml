@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8478042D-AFC3-41BC-B2BD-FC14341D40DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Team__Segfault__kosarlabda PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Team_Segfault_kosarlabda/Program.cs">
+    <Files>
+      <File FileName="Team_Segfault_kosarlabda/Program.cs" Line="254" Column="187" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Team_Segfault_kosarlabda" expanded="True">
+            <Node name="Team_Segfault_kosarlabda" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
